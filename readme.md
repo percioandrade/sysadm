@@ -1,4 +1,6 @@
-![repo_sys_cover](https://github.com/percioandrade/sysadm/assets/4235657/deb27c5a-a62c-495f-bf5e-0245a0144833)
+<p align="center">
+<img width="720" height="158" src="https://github.com/percioandrade/sysadm/assets/4235657/deb27c5a-a62c-495f-bf5e-0245a0144833" alt="SysAdm Banner">
+</p>
 
 # Hello Folks
 
